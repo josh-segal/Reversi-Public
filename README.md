@@ -15,7 +15,7 @@ Per Northeastern University CS3500 guidelines the full repository must remain pr
 7. [Collaboration](#collaboration)
 
 ## Description
-The "Reversi Game" project aims to create a basic graphical representation of a Reversi game, featuring both hexagonal and square board layouts. Players can be human or computer, and any combination can play each other! The codebase assumes that the client is familiar with the rules of [Reversi](https://en.wikipedia.org/wiki/Reversi). It offers flexibility in terms of the board shape size, with all edges being of equal length. However, note that different starting positions and support for multiple players are beyond the scope of this codebase.
+The "Reversi Game" project aims to create a basic graphical representation of a Reversi game, featuring both hexagonal and square board layouts. Players can be human or computer, and any combination can play each other. The codebase assumes that the client is familiar with the rules of [Reversi](https://en.wikipedia.org/wiki/Reversi). It offers flexibility in terms of the board shape size, with all edges being of equal length. However, note that different starting positions and support for multiple players are beyond the scope of this codebase.
 
 ## Tech Base
 - **Programming Language**: The Reversi game is coded entirely in `Java`, utilizing its object-oriented features and platform independence.
